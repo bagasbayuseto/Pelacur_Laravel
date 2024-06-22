@@ -1,0 +1,1 @@
+<!-- digunakan sebagai operasi query -->
